@@ -1,0 +1,20 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Activate Plasma
+Comment=Display a Activate Plasma watermark on desktop
+Type=Service
+
+X-KDE-Library=plasma_applet_tutorial
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=RedL0tus
+X-KDE-PluginInfo-Email=i@v2bv.net
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Name=fish.salted.activate-plasma
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/RedL0tus/activate-plasma
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Category=Windows and Tasks
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=

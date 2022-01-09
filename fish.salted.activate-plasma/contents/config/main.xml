@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+    <kcfgfile name="activate-plasma-config"/>
+
+    <group name="General">
+        <entry name="titleText" type="String">
+            <default>Activate Plasma</default>
+        </entry>
+        <entry name="descriptionText" type="String">
+            <default>Go to Settings to activate Plasma</default>
+        </entry>
+        <entry name="titleTextSize" type="Double">
+            <default>20</default>
+        </entry>
+        <entry name="descriptionTextSize" type="Double">
+            <default>15</default>
+        </entry>
+        <entry name="spacingSize" type="Double">
+            <default>2</default>
+        </entry>
+        <entry name="opacity" type="Double">
+            <default>0.4</default>
+        </entry>
+        <entry name="fontFamily" type="String">
+            <default>Noto Sans</default>
+        </entry>
+    </group>
+</kcfg>
+
