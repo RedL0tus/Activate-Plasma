@@ -2,7 +2,9 @@ Activate Plasma
 ===============
 
 Oh you thought your Linux desktop is free?
-Your KDE Plasma installation is not activated. Go to Settings to activate it.
+Your KDE Plasma installation is not activated, go to Settings to activate it.
+
+![Activate Plasma](img/screenshot.png)
 
 Inspired by [https://github.com/isjerryxiao/gnome-shell-extension-activate-gnome](https://github.com/isjerryxiao/gnome-shell-extension-activate-gnome)
 
